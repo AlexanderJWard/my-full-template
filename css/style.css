@@ -37,18 +37,13 @@ nav a:hover {
     margin-left: 10%;
 }
 
-.card2 {
-    width: 33%;
-    margin-right: 10%;
-    float: right;
-}
-
 .card a, .card2 a {
     text-align: center;
 }
 
 img {
     width: 100%;
+    height: 300px;
 }
 
 h2 {
